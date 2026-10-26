@@ -1,4 +1,4 @@
-def add(int a,int b):
+def ad(int a,int b):
     a=10
     b=20
     sum=a+b
